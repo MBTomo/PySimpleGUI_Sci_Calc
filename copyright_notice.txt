@@ -1,5 +1,5 @@
-These program uses the Python.
+These programs use the Python.
 © Copyright 2001-2023, Python Software Foundation
 
-These program uses the PySimpleGUI.
+These programs use the PySimpleGUI.
 © Copyright 2021, 2022 PySimpleGUI
