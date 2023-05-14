@@ -1,0 +1,2 @@
+# PySimpleGUI_Sci_Calc
+PySimpleGUIを使用した関数電卓を作成しています
